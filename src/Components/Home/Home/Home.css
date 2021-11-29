@@ -1,0 +1,16 @@
+
+.home{
+     background-color: rgb(38, 38, 43);
+     
+     
+}
+
+.devDesc{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: flex-start;
+}
+ .dev-img{
+padding: 25px;
+} 
