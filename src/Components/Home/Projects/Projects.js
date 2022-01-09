@@ -10,6 +10,27 @@ const Projects = () => {
           <Card style={{ width: "18rem", height: "30rem" }}>
             <Card.Img
               variant="top"
+              src="https://doctors-portal2-53fc7.web.app/static/media/doctor.0a279a5b65e8258865bf.png"
+            />
+            <Card.Body>
+              <Card.Title>Wooden Craft & Stationary Shop</Card.Title>
+              <Card.Text>
+                We have been marketing our products to several countries in the
+                world such as America, Australia, and other countries while
+                ensuring the quality of products in accordance
+              </Card.Text>
+            </Card.Body>{" "}
+            <Button
+              variant="primary"
+              href="https://doctors-portal2-53fc7.web.app/"
+              target="_blank"
+            >
+              Live Site
+            </Button>
+          </Card>
+          <Card style={{ width: "18rem", height: "30rem" }}>
+            <Card.Img
+              variant="top"
               src="https://woodencraft-a5d47.web.app/static/media/950x350-banner-craft-stationery.68595050.jpg"
             />
             <Card.Body>
